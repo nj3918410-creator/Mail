@@ -1,0 +1,7 @@
+name = "rana-fr-email-router"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+# Replace with your permanent server URL when deployed (e.g. Render / Railway / Fly.io)
+INBOUND_WEBHOOK_URL = "https://ais-pre-seyhltmd3w55jkupthjwyw-780001404467.asia-southeast1.run.app/api/inbound"

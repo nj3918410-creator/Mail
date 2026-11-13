@@ -1,0 +1,8 @@
+{
+  "name": "rana.fr — টেমমেইল",
+  "description": "@rana.fr ডোমেইনে তাৎক্ষণিক ডিসপোজেবল ইমেইল ও OTP ইনবক্স।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
